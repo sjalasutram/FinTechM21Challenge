@@ -29,6 +29,6 @@ MIT
 
 ## Evaluation Evidence
 
-![KaseiCoin Compilation](KaseiCoin.gif)
+![KaseiCoin Compilation](./KaseiCoin.gif)
 
-![KaseiCoinCrowdsale Compilation](KaseiCoinCrowdsale.gif)
+![KaseiCoinCrowdsale Compilation](./KaseiCoinCrowdsale.gif)
