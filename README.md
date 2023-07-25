@@ -37,3 +37,6 @@ KeseiCoinCrowdsale compilation evidence
 
 KeseiCoinCrowdsaleDeployer compilation evidence
 ![KaseiCoinCrowdsale Deployer Compilation](./KaseiCoinCrowdsaleDeployer_compilation.gif)
+
+The deployment testing evidence is uploaded as compressed file (due to size limitations)
+under the name ModuleChallenge21 Deployment Testing.zip
